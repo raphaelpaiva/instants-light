@@ -1,0 +1,37 @@
+body {
+    background: #F0EDE3;
+}
+
+#macroContainer {
+    margin: 0 auto;
+    width: 90%;
+
+}
+
+#PlayerArea {
+    margin-left: 115px;
+}
+
+.container {
+    border: 2px solid green;
+    display: inline-block;
+    margin: 10px;
+    width: 15%;
+}
+
+.container h3 {
+    margin-left: 20%;
+}
+
+.container ul {
+}
+
+.container ul li {
+    display: inline;
+}
+
+.play {
+}
+
+.stop {
+}
